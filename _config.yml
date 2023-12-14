@@ -1,0 +1,9 @@
+title: Your GitHub Pages Site
+description: A brief description of your site
+url: https://yourusername.github.io
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+theme: minima # You can choose a different Jekyll theme if you want
+markdown: kramdown
+exclude: ["Gemfile", "Gemfile.lock", "node_modules", "vendor", "_site"]
