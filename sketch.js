@@ -22,7 +22,7 @@ var currentLevel = 1;
 function preload() {
   try {
     sphereMineralImg = loadImage("sphereMineral.png");
-    conveyorBeltImg = loadImage("conveyorBelt.jfif");
+    conveyorBeltImg = loadImage("conveyorBelt.png");
     extractorImg = loadImage("extractor.png");
     sphereImg = loadImage("sphere.png");
   } catch (error) {
