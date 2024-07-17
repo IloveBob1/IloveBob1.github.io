@@ -29,5 +29,5 @@ Since this project is in github page, just click this link to access it: [click 
 - **movement**: use the middle mouse to pan
 - **adding and deleting**: left click to add an object, right click to remove it
 ## Credits
-Original game by Tobias Springer
-p5js port by ILoveBob1
+- Original game by Tobias Springer
+- p5js port by ILoveBob1
